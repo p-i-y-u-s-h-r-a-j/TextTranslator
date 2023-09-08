@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text Translator</string>
+    <string name="original_language_english">Original Language: English</string>
+    <string name="translated_language_hindi">Translated Language: Hindi</string>
+</resources>
